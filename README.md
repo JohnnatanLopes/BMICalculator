@@ -3,7 +3,7 @@
 This project is a Body Mass Index (BMI) calculator developed in Java, using Swing for the graphical user interface.
 The calculator supports both Metric and US units, allowing users to perform BMI calculations conveniently and accurately.
 
-><strong>status</strong>:The project may contain errors and bugs.⚠️
+><strong>status</strong>:development.⚠️
 
 <h3>Features</h3>
 
