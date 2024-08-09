@@ -25,5 +25,5 @@ The calculator supports both Metric and US units, allowing users to perform BMI 
 </ul>
 
 <h3>Contributing</h3>
-Contributions are welcome! If you want to improve this project.
+Contributions are welcome!
 
