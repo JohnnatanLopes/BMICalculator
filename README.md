@@ -3,6 +3,8 @@
 This project is a Body Mass Index (BMI) calculator developed in Java, using Swing for the graphical user interface.
 The calculator supports both Metric and US units, allowing users to perform BMI calculations conveniently and accurately.
 
+><strong>status</strong>:The project may contain errors and bugs.⚠️
+
 <h3>Features</h3>
 
 <ul>
@@ -14,7 +16,8 @@ The calculator supports both Metric and US units, allowing users to perform BMI 
 </ul>
 
 <h3>Example Screenshot</h3>
-<img src="https://ibb.co/xX3XTyG" alt="Screnshoot calculator IMC"</img>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/ydVdjD5/Screenshot-IMC-calculator.png" alt="Screenshot-IMC-calculator" border="0"></a>
+<img src="https://i.ibb.co/LSg3PYX/Screenshot-from-2024-08-09-09-34-28.png" alt="Screenshot-IMC-calculator" border="0">
 
 <h3>Technologies Used</h3>
 <ul>
